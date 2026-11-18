@@ -91,3 +91,17 @@ Example Response:
   "price": 15.99
 }
 ```
+
+
+My Work
+
+## Changes made
+- Fetch and display plants from the backend using useEffect.
+- Add new plants using a POST request.
+- Implement plant stock status toggle.
+- Implement case-insensitive plant search.
+- Update React components to support the required functionality.
+
+## Testing
+- Ran the project test suite.
+- Verified the application runs successfully.
