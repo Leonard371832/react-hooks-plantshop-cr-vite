@@ -105,3 +105,46 @@ My Work
 ## Testing
 - Ran the project test suite.
 - Verified the application runs successfully.
+
+
+
+
+## How to Run the Application
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Start the backend
+
+Open a terminal and run:
+
+```bash
+npm run server
+```
+
+The backend runs at `http://localhost:6001`.
+
+### 3. Start the frontend
+
+Open a second terminal and run:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view Plantshop.
+
+### 4. Run the tests
+
+```bash
+npm run test -- --run
+```
+
+## Application Screenshot
+
+The screenshot below shows the Plantshop application.
+
+![Plantshop Application Screenshot](screenshots/plantshop.png)
