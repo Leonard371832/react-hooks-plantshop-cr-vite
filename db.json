@@ -1,46 +1,191 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
-      "image": "./images/aloe.jpg",
+      "image": "/images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
+      "image": "/images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
+      "image": "/images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
-      "image": "./images/pothos.jpg",
+      "image": "/images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
-      "image": "./images/jade.jpg",
+      "image": "/images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
+      "image": "/images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
+      "image": "/images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "rsT6CtT-Sps"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "zv4psk8HFqI"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "TstUNX9w-Vc"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "NGC3qk5WTyE"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "3PoK0mgMSEM"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "tv7hp1Akroo"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "HKg0r93RPII"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "x11U1Lkgogg"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "KqK46F80jWE"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "WKINsCVofQ0"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "jDdbGuHnibg"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "hF8MsfaINdM"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "bISUXSaaE9I"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "68NpZJQ_z-o"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "Dzd02oiiBBE"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "LzjkHu2EiLE"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "vRJ6wIXsT8w"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "qEzKfHkF5ls"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "c73vzs_KbXs"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "wm-cvcgaYI0"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "ogDkDbaT6Fs"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "B0XJBZj0zhc"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": "2V3ITTOOgq0"
+    },
+    {
+      "name": "Snake Plant ",
+      "image": "/images/aloe.jpg",
+      "price": "20",
+      "id": "qtr6gYIRM_c"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
