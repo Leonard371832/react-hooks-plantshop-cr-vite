@@ -91,3 +91,60 @@ Example Response:
   "price": 15.99
 }
 ```
+
+
+My Work
+
+## Changes made
+- Fetch and display plants from the backend using useEffect.
+- Add new plants using a POST request.
+- Implement plant stock status toggle.
+- Implement case-insensitive plant search.
+- Update React components to support the required functionality.
+
+## Testing
+- Ran the project test suite.
+- Verified the application runs successfully.
+
+
+
+
+## How to Run the Application
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Start the backend
+
+Open a terminal and run:
+
+```bash
+npm run server
+```
+
+The backend runs at `http://localhost:6001`.
+
+### 3. Start the frontend
+
+Open a second terminal and run:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view Plantshop.
+
+### 4. Run the tests
+
+```bash
+npm run test -- --run
+```
+
+## Application Screenshot
+
+The screenshot below shows the Plantshop application.
+
+![Plantshop Application Screenshot](screenshots/plantshop.png)
